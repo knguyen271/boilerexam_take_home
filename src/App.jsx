@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { fetchQuestion } from './api/questionApi';
 import QuestionCard from './components/QuestionCard';
-import { Loader2, AlertCircle } from 'lucide-react';
 
 function App() {
     const [data, setData] = useState(null);
