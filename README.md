@@ -1,4 +1,4 @@
-# Project 1: Question Page
+# Project 1: Question Page - Boilerexams Application Project
 
 The project makes a question interface, implementing the question data from the BoilerExam API. It uses KaTeX to handle the latex and gives user feedback when submitted. 
 
